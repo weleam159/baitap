@@ -8,17 +8,25 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; My WordPress</title>
+	<title>Sản phẩm &#8211; FlowerStore</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://weleam159.github.io/baitap</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 27 Sep 2021 00:35:40 +0000</lastBuildDate>
+	<description>Đủ nắng hoa sẽ nở, đủ gió mây sẽ bay và đủ yêu thương hạnh phúc sẽ đong đầy!</description>
+	<lastBuildDate>Thu, 14 Oct 2021 00:46:51 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://weleam159.github.io/baitap/wp-content/uploads/2021/09/bf1aca208fe338e382108cd7f9562209.jpg</url>
+	<title>Sản phẩm &#8211; FlowerStore</title>
+	<link>https://weleam159.github.io/baitap</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Bình Hoa Amber-Glazed Vase</title>
 		<link>https://weleam159.github.io/baitap/product/binh-hoa-amber-30/</link>
