@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lọ Hoa Pha Lê Mạ vàng &#8211; FlowerStore</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/lo-hoa-pha-le-ma-vang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://weleam159.github.io/baitap</link>
+	<description>Đủ nắng hoa sẽ nở, đủ gió mây sẽ bay và đủ yêu thương hạnh phúc sẽ đong đầy!</description>
+	<lastBuildDate>Sun, 17 Oct 2021 11:13:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://weleam159.github.io/baitap/wp-content/uploads/2021/09/bf1aca208fe338e382108cd7f9562209.jpg</url>
+	<title>Lọ Hoa Pha Lê Mạ vàng &#8211; FlowerStore</title>
+	<link>https://weleam159.github.io/baitap</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lọ Hoa Pha Lê Mạ vàng</title>
+		<link>https://weleam159.github.io/baitap/product/binh-hoa-amber-18/</link>
+					<comments>https://weleam159.github.io/baitap/product/binh-hoa-amber-18/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyengiatai]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 04:42:39 +0000</pubDate>
+				<guid isPermaLink="false">https://weleam159.github.io/baitap/?post_type=product&#038;p=281</guid>
+
+					<description><![CDATA[Lọ Hoa Pha Lê Mạ vàng bình nhỏ: 16x18x14cm(chiều cao x đường kính miệng x đường kính đáy) bình to: 35&#215;5 (chiều cao x đường kính miệng)]]></description>
+										<content:encoded><![CDATA[<h1>Lọ Hoa Pha Lê Mạ vàng</h1>
+<ul>
+<li>bình nhỏ: 16x18x14cm(chiều cao x đường kính miệng x đường kính đáy)</li>
+<li>bình to: 35&#215;5 (chiều cao x đường kính miệng)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://weleam159.github.io/baitap/product/binh-hoa-amber-18/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
